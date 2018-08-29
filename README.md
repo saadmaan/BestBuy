@@ -1,2 +1,2 @@
 # BestBuy
-JSP Servet Deal Best Buy
+JSP Servlet Deal Best Buy
